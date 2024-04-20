@@ -10,7 +10,7 @@
            ░ ░ ░ ▒  ░ ░ ░ ░ ░░ ░ ░ ░ ░ ░     ░ ░    ▒ ░ ░ ░       ░
                ░ ░    ░ ░      ░ ░      ░      ░  ░ ░             ░  ░
                     ░        ░          ░
-          Author: Stanislav "Oz" Ozeransky | Site: https:://ozz.life/
+          Author: Stanislav "ozz" Ozeransky | Site: https:://ozz.life/ 
 
 We are what we think.
 All that we are arises with our thoughts.
