@@ -29,7 +29,11 @@ As your shadow, unshakable. ― Gautama Buddha
 
 - [IPB4 Parser](https://github.com/ozz-life/ipb4parser): Парсер для форумов с использованием движка IPB4. Объединяет темы или посты пользователя в удобный файл, игнорируя сообщения без лайков, для последующей обработки.
 
-**Вёрстка макетов. Можно пощупать:**
+**Frontend**
+
+- [reactStarter-vite-apollo](https://github.com/ozz-life/reactStarter-vite-apollo): React Стартер проекта: react-router-v6 apollo-client react-tabs
+
+** Вёрстка макетов. Можно пощупать:**
 
 - [https://github.com/ozz-life/testhtml-loremipsum.net](https://github.com/ozz-life/testhtml-loremipsum.net)
 - [https://github.com/ozz-life/portfolio-dwel](https://github.com/ozz-life/portfolio-dwel)
