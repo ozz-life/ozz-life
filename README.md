@@ -33,7 +33,7 @@ As your shadow, unshakable. ― Gautama Buddha
 
 - [reactStarter-vite-apollo](https://github.com/ozz-life/reactStarter-vite-apollo): React Стартер проекта: react-router-v6 apollo-client react-tabs
 
-** Вёрстка макетов. Можно пощупать:**
+**Вёрстка макетов. Можно пощупать:**
 
 - [https://github.com/ozz-life/testhtml-loremipsum.net](https://github.com/ozz-life/testhtml-loremipsum.net)
 - [https://github.com/ozz-life/portfolio-dwel](https://github.com/ozz-life/portfolio-dwel)
